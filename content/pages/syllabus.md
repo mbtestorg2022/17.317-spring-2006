@@ -19,11 +19,48 @@ Grading
 
 Grades will be earned on the following basis:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class Participation | 20% |
-| Intermediate Projects (Assignments 1-4) | 20% |
-| Final Paper | 60% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Intermediate Projects (Assignments 1-4)
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Paper
+{{< tdclose >}}
+{{< tdopen >}}
+60%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
 
@@ -34,31 +71,309 @@ Calendar
 
   
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction |  |
-| {{< td-colspan 3 >}}**Part I: American Exceptionalism and a Case: Why No National Health Insurance in the United States?**{{< /td-colspan >}} |||
-| 2-3 | U.S. Health Policy |  |
-| {{< td-colspan 3 >}}**Part II: Preferences, Participation, and Representation**{{< /td-colspan >}} |||
-| 4 | Who Participates? |  |
-| 5 | Who Gets Represented? The Case of Social Security |  |
-| 6 | Who Gets Represented? The Case of Tax Cuts and Other Policies |  |
-| 7 | Interest Groups I |  |
-| 8 | Interest Groups II: Business vs. Labor |  |
-| 9-10 | Public Opinion and Preference Formation: The Case of Universal vs. Targeted Programs |  |
-| {{< td-colspan 3 >}}**Part III: The Policy-Making Process**{{< /td-colspan >}} |||
-| 11 | Problem Definition and Agenda Setting I: The Case of Medicare Prescription Drug Coverage |  |
-| 12 | Problem Definition and Agenda Setting II | Assignment 1 due: Select issue area for research paper |
-| 13 | Policy-Relevant Institutions: Congress I |  |
-| 14 | Policy-Relevant Institutions: Congress II; The Case of the Hidden Welfare State | Assignment 2 due: List at least five sources |
-| 15 | Policy-Relevant Institutions: The Courts; The Case of Welfare Rights |  |
-| {{< td-colspan 3 >}}**Part IV: Policy in Practice**{{< /td-colspan >}} |||
-| 16 | Implementation: The Case of Rehabilitation in Prison | Assignment 3 due: Write paragraph on actors in your issue area |
-| 17 | Policy Design |  |
-| 18 | The Consequences of Policy Design: The Cases of Welfare and the G.I. Bill |  |
-| 19 | Public-Private Relations | Assignment 4 due 2 days after Lec #19: 8-10 pages on opinion and participation in your issue area |
-| 20 | The Working Years: Unemployment, Disability Insurance, and the EITC |  |
-| 21 | Gender in U.S. Social Policy: The Case of Family and Medical Leave |  |
-| 22 | Education Policy: Vouchers |  |
-| 23 | Education Policy: Federal College Loans |  |
-| 24-25 | Course Conclusion: The Future of American Social Policy | Assignment 5 due 2 days after Lec #25: Final paper due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part I: American Exceptionalism and a Case: Why No National Health Insurance in the United States?**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2-3
+{{< tdclose >}}
+{{< tdopen >}}
+U.S. Health Policy
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part II: Preferences, Participation, and Representation**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Who Participates?
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Who Gets Represented? The Case of Social Security
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Who Gets Represented? The Case of Tax Cuts and Other Policies
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Interest Groups I
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Interest Groups II: Business vs. Labor
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9-10
+{{< tdclose >}}
+{{< tdopen >}}
+Public Opinion and Preference Formation: The Case of Universal vs. Targeted Programs
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part III: The Policy-Making Process**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Definition and Agenda Setting I: The Case of Medicare Prescription Drug Coverage
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Definition and Agenda Setting II
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 1 due: Select issue area for research paper
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Policy-Relevant Institutions: Congress I
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Policy-Relevant Institutions: Congress II; The Case of the Hidden Welfare State
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 2 due: List at least five sources
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Policy-Relevant Institutions: The Courts; The Case of Welfare Rights
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part IV: Policy in Practice**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Implementation: The Case of Rehabilitation in Prison
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 3 due: Write paragraph on actors in your issue area
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Policy Design
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+The Consequences of Policy Design: The Cases of Welfare and the G.I. Bill
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Public-Private Relations
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 4 due 2 days after Lec #19: 8-10 pages on opinion and participation in your issue area
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+The Working Years: Unemployment, Disability Insurance, and the EITC
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Gender in U.S. Social Policy: The Case of Family and Medical Leave
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Education Policy: Vouchers
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Education Policy: Federal College Loans
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24-25
+{{< tdclose >}}
+{{< tdopen >}}
+Course Conclusion: The Future of American Social Policy
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 5 due 2 days after Lec #25: Final paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
